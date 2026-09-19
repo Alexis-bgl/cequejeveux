@@ -1,2 +1,2 @@
 def (hi) :
-    return "Hello World"
+    return "Hello bg"
